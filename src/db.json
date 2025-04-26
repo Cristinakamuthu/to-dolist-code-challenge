@@ -1,0 +1,25 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "title": "Finish React homework",
+        "completed": false
+      },
+      {
+        "id": 2,
+        "title": "Do the laundry",
+        "completed": true
+      },
+      {
+        "id": 3,
+        "title": "Prepare for tomorrow's class",
+        "completed": false
+      },
+      {
+        "id": 4,
+        "title": "Practice singing",
+        "completed": false
+      }
+    ]
+  }
+  
